@@ -12,7 +12,7 @@
 float pi = 3.1415916;
 float e  = 2.7182818;
 
-const int N = 30;     // número de entradas
+const int N = 300;     // número de entradas
 float G[N+1];         // vector Gauss
 float d = 3;          // dominio
 float i = d / N;      // incremento en x
