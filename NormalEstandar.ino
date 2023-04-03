@@ -1,3 +1,7 @@
+// Por Roberto A. Zavala
+// https://github.com/QuiahEditorial
+// Libro : https://www.amazon.com.mx/dp/B074TTGLL2
+// 🙏🏼    : DNv7acPAeVBhTXbKv26itJecPG1SPy2o4F
 
 // Siendo la ecuación de la distribución normal
 // \frac{1}{\sigma sqrt{2*pi}} e^{-(\frac{x-\mu)^2}{2*\sigma^2}},
